@@ -6,7 +6,6 @@ toolchain go1.24.2
 
 require (
 	github.com/DATA-DOG/go-sqlmock v1.5.2
-	github.com/caarlos0/env/v11 v11.3.1
 	github.com/caarlos0/env/v9 v9.0.0
 	github.com/coreos/go-oidc/v3 v3.12.0
 	github.com/go-sql-driver/mysql v1.9.2
@@ -27,10 +26,7 @@ require (
 
 require (
 	filippo.io/edwards25519 v1.1.0 // indirect
-	github.com/go-jose/go-jose/v3 v3.0.1 // indirect
 	github.com/go-jose/go-jose/v4 v4.0.2 // indirect
-	github.com/golang-jwt/jwt v3.2.2+incompatible // indirect
-	github.com/golang/protobuf v1.5.3 // indirect
 	github.com/mattn/go-colorable v0.1.13 // indirect
 	github.com/mattn/go-isatty v0.0.20 // indirect
 	github.com/valyala/bytebufferpool v1.0.0 // indirect
@@ -38,6 +34,4 @@ require (
 	golang.org/x/sys v0.31.0 // indirect
 	golang.org/x/text v0.23.0 // indirect
 	golang.org/x/time v0.8.0 // indirect
-	google.golang.org/appengine v1.6.8 // indirect
-	google.golang.org/protobuf v1.31.0 // indirect
 )
